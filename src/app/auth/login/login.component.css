@@ -1,0 +1,8 @@
+.box{
+    width: 30% !important;
+    border-style: solid;
+    border-color: #0062cc;
+    border-radius: 25px;
+    padding: 10px;
+    border-width: medium;
+}
